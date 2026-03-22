@@ -2,7 +2,7 @@
 
 ---
 
-![XSeg Benchmark Image Placeholder](./sample_img/datademo.png "Placeholder for XSeg Benchmark Image")
+![XSeg Benchmark Image Placeholder](./datademo.png "Placeholder for XSeg Benchmark Image")
 
 ---
 
@@ -21,12 +21,12 @@ Access code: `8tsu`
 We provide researchers with a fine-grained categorized version of the semantic segmentation of Xseg, a total of 32 categories of common contraband, the figure shows only part of the data example, called Xseg-semangtic, if you need it, you can contact the author to get it.<br>
 
 
-![Semantic](./sample_img/semanticdemo.png "Placeholder for XSeg Benchmark Image")
+![Semantic](./semanticdemo.png "Placeholder for XSeg Benchmark Image")
 
 ## DATA Pipeline
 We provide a reasonable pipeline for contraband dataset construction to build high-quality datasets and design a model Adaptive Point SAM (APSAM) specifically for contraband segmentation annotation task. APSAM is user-friendly enough and has superior segmentation performance.
 
-![datapipe](./sample_img/datapipe.png "Placeholder for XSeg Benchmark Image")
+![datapipe](./datapipe.png "Placeholder for XSeg Benchmark Image")
 
 
 
