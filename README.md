@@ -54,20 +54,6 @@ cd APSAM
 python train.py --modelname APSAM --task <your dataset config name>
 ```
 
----
-
-
----
-
-## To-Do List
-* [√] Making XSeg public
-* [√] Provide training and testing code for APSAM.
-* [×] Checkpoints for APSAM will be made public.
-
-
-
----
-
 ## 3. Acknowledgement
 We thank the authors of  **[Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting](https://arxiv.org/abs/2309.06824)** (Lin et al., *MICCAI 2024*) 
 for open-sourcing their code and for helpful discussions.
