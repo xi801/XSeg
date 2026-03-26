@@ -14,8 +14,8 @@
 
 ## 1. Dataset
 ## Download
-[Download here](https://pan.baidu.com/s/1uVOmNCcsWE_w_pEEEMhAEQ)  
-Access code: `8tsu`
+[Download here](https://pan.baidu.com/s/1bsLZf1pB2J4k8ypIaCScNw)  
+Access code: `7kgi`
 
 ## Additional version
 We provide researchers with a fine-grained categorized version of the semantic segmentation of Xseg, a total of 32 categories of common contraband, the figure shows only part of the data example, called Xseg-semangtic, if you need it, you can contact the author to get it.<br>
